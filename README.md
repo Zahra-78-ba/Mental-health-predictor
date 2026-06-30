@@ -174,7 +174,7 @@ survey.csv
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/homepage(1).png)
+![Home Page](screenshots/homepage%20(1).png)
 
 
 ### 📝 Questionnaire
